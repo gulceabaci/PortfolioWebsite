@@ -1,6 +1,6 @@
 import React from 'react';
 import {Carousel} from 'flowbite-react';
-import client1 from '../assets/client1.jpg';
+import client1 from '../assets/images/client1.jpg';
 
 function Clients() {
   return (
