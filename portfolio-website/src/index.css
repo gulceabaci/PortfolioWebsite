@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+#testimonial #clients button span {
+    background-color: #ff5a1f;
+    width: 4rem;
+    height: 4rem;
+}
+
+#testimonial #clients button span:hover {
+    background-color: black;
+    cursor: pointer;
+}
+
+#testimonial #clients button span svg {
+    width: 3rem;
+    height: 3rem;
+}
