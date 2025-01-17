@@ -6,7 +6,7 @@ import client2 from '../assets/images/client2.jpg';
 
 function Clients() {
   return (
-    <section id='testimonial' className='w-full flex flex-col justify-center items-center h-[800px] lg:h-[600px]'>
+    <section id='testimonial' className='w-full flex flex-col justify-center items-center h-[700px] lg:h-[700px]'>
       <Carousel className='w-full lg:w-[80%]' id='clients' slideInterval={2000} indicators={false}>
         <div className='flex items-center justify-between flex-col lg:flex-row w-full px-4 lg:px-32 gap-10'>
           <div id='client-img' className='w-[50%] lg:w-[30%]'>
