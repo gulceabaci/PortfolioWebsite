@@ -3,7 +3,6 @@ import {Carousel} from 'flowbite-react';
 import client1 from '../assets/images/client1.jpg';
 import client2 from '../assets/images/client2.jpg';
 
-
 function Clients() {
   return (
     <section id='testimonial' className='w-full flexz flex-col justify-center items-center h-[800px] lg:h-[600px]'>
